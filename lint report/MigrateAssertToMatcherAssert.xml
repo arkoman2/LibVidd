@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assertion expression can be replaced with 'assertThat' method call</problem_class>
+    <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat' call #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assertion expression can be replaced with 'assertThat' method call</problem_class>
+    <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat' call #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assertion expression can be replaced with 'assertThat' method call</problem_class>
+    <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat' call #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assertion expression can be replaced with 'assertThat' method call</problem_class>
+    <description>Assert expression &lt;code&gt;assertEquals&lt;/code&gt; can be replaced with 'assertThat' call #loc</description>
+  </problem>
+</problems>
+

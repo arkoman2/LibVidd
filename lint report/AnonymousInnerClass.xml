@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>63</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminMenuActivity$5" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>50</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminMenuActivity$4" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>76</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminMenuActivity$6" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminMenuActivity$3" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminMenuActivity$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>34</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminMenuActivity$2" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>220</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$5" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;OnFailureListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>225</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$6" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;OnSuccessListener&lt;UploadTask.TaskSnapshot&gt;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>192</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$3" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;OnFailureListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>185</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$2" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;OnSuccessListener&lt;UploadTask.TaskSnapshot&gt;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>157</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>198</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$4" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;OnProgressListener&lt;UploadTask.TaskSnapshot&gt;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>61</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MenuActivity$5" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MenuActivity$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MenuActivity$2" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>48</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MenuActivity$4" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MenuActivity$3" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>53</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.UserDashboardActivity$2" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>33</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>64</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$2" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;AdapterView.OnItemLongClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>82</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$3" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;ValueEventListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>125</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>143</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$5" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>54</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>48</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.LoginActivity$2$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;ValueEventListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.LoginActivity$2" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>56</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.SignUpActivity$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>63</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddFavActActivity$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>75</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddFavActActivity$2" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;ValueEventListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>61</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MainActivity$2" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>50</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MainActivity$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>75</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddMovieActivity$2" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;ValueEventListener&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>63</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddMovieActivity$1" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class</problem_class>
+    <description>Anonymous inner class &lt;code&gt;View.OnClickListener&lt;/code&gt; #loc</description>
+  </problem>
+</problems>
+

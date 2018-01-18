@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.User userId" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;userId&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.User userName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;userName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.User password" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;password&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.User userGe" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;userGe&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.User admin" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;admin&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MapsActivity mMap" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;mMap&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.Movie MovieRating" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;MovieRating&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.Movie movieName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;movieName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.Movie MovieId" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;MovieId&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity addActorBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;addActorBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity mapBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;mapBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity addMovieBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;addMovieBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity aboutBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;aboutBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity adminBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;adminBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity detalesBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;detalesBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>134</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddPicAfterActivity upLoad" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;upLoad&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>135</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddPicAfterActivity capture" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;capture&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>142</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddPicAfterActivity bit" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;bit&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>136</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddPicAfterActivity img_view" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;img_view&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>137</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddPicAfterActivity filepath" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;filepath&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>133</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddPicAfterActivity gallary" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;gallary&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>138</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddPicAfterActivity storageReference" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;storageReference&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MenuActivity aboutBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;aboutBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MenuActivity addActorBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;addActorBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MenuActivity addMovieBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;addMovieBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MenuActivity detalesBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;detalesBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MenuActivity mapBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;mapBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.UserDashboardActivity spinnerGenres" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;spinnerGenres&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.UserDashboardActivity editTextPassword" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextPassword&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.UserDashboardActivity updateBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;updateBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.UserDashboardActivity editTextName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.UserDashboardActivity deleteBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;deleteBtn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminDashboardActivity spinnerG" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;spinnerG&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>29</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminDashboardActivity btnAdd" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;btnAdd&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminDashboardActivity userList" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;userList&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>34</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminDashboardActivity listViewUsers" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;listViewUsers&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminDashboardActivity databaseUsers" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;databaseUsers&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminDashboardActivity editTextPassword" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextPassword&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminDashboardActivity editTextName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity editTextpassword" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextpassword&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>29</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity databaseUsers" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;databaseUsers&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity btnSignIn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;btnSignIn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>25</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity editTextName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>33</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.SignUpActivity editTextpassword" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextpassword&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>34</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.SignUpActivity btnSignUp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;btnSignUp&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.SignUpActivity spinnerG" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;spinnerG&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.SignUpActivity editTextName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>37</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.SignUpActivity databaseUsers" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;databaseUsers&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>34</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.SignUpActivity choosePic" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;choosePic&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.Actor ActorId" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;ActorId&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.Actor ActorName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;ActorName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.Actor ActorRating" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;ActorRating&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddFavActActivity Actors" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;Actors&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddFavActActivity btnAddActor" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;btnAddActor&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddFavActActivity listViewActors" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;listViewActors&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddFavActActivity seekBarRating" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;seekBarRating&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddFavActActivity textViewUserName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;textViewUserName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddFavActActivity editTextActorName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextActorName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>34</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddFavActActivity databaseActors" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;databaseActors&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MainActivity signUp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;signUp&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>34</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MainActivity btnName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;btnName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MainActivity mFirebaseAnalytics" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;mFirebaseAnalytics&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MainActivity signIn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;signIn&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddMovieActivity textViewUserName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;textViewUserName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>34</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddMovieActivity databaseMovies" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;databaseMovies&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddMovieActivity editTextMovieName" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;editTextMovieName&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddMovieActivity listViewMovies" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;listViewMovies&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddMovieActivity seekBarRating" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;seekBarRating&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddMovieActivity movies" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;movies&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddMovieActivity btnAddMovie" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;btnAddMovie&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>33</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.uiauto emulator" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instance field may not be initialized</problem_class>
+    <description>Instance field &lt;code&gt;emulator&lt;/code&gt; may not be initialized during object construction #loc</description>
+  </problem>
+</problems>
+

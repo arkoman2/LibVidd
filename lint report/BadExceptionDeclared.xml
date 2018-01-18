@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ExampleUnitTest void addition_isCorrect()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Prohibited exception declared</problem_class>
+    <description>Prohibited exception &lt;code&gt;Exception&lt;/code&gt; declared #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ExampleInstrumentedTest void useAppContext()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Prohibited exception declared</problem_class>
+    <description>Prohibited exception &lt;code&gt;Exception&lt;/code&gt; declared #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>31</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.espressoTest void checkPackageName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Prohibited exception declared</problem_class>
+    <description>Prohibited exception &lt;code&gt;Exception&lt;/code&gt; declared #loc</description>
+  </problem>
+</problems>
+

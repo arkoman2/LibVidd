@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <entry_point TYPE="package" FQNAME="com.bestteam.libvidd" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Package with too many classes</problem_class>
+    <hints />
+    <description>Package 'com.bestteam.libvidd' contains too many classes (23 &gt; 10)</description>
+  </problem>
+</problems>
+

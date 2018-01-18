@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml</file>
+    <line>27</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing inputType or hint</problem_class>
+    <hints />
+    <description>&lt;html&gt;The view name (&lt;code&gt;@+id/editTextPasswordUp&lt;/code&gt;) suggests this is a password, but it does not include '&lt;code&gt;textPassword&lt;/code&gt;' in the &lt;code&gt;inputType&lt;/code&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml</file>
+    <line>21</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing inputType or hint</problem_class>
+    <hints />
+    <description>&lt;html&gt;The view name (&lt;code&gt;@+id/editTextPasswordUp&lt;/code&gt;) suggests this is a password, but it does not include '&lt;code&gt;textPassword&lt;/code&gt;' in the &lt;code&gt;inputType&lt;/code&gt; (id defined here)&lt;/html&gt;</description>
+  </problem>
+</problems>
+

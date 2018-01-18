@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>249</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly broad 'catch' block</problem_class>
+    <description>'catch' of &lt;code&gt;IOException&lt;/code&gt; is too broad, masking exception 'FileNotFoundException' #loc</description>
+  </problem>
+</problems>
+

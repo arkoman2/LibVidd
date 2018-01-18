@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Misordered 'assertEquals()' arguments</problem_class>
+    <description>Arguments to &lt;code&gt;assertEquals()&lt;/code&gt; in wrong order #loc</description>
+  </problem>
+</problems>
+

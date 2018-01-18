@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'user' of concrete class &lt;code&gt;User&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'test' of concrete class &lt;code&gt;User&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>79</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'user' of concrete class &lt;code&gt;User&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>68</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$2 boolean onItemLongClick(android.widget.AdapterView&lt;?&gt; adapterView, android.view.View view, int i, long l)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'user' of concrete class &lt;code&gt;User&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>188</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'user' of concrete class &lt;code&gt;User&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>166</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'user' of concrete class &lt;code&gt;User&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>88</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$3 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'user' of concrete class &lt;code&gt;User&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>93</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$3 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'adapter' of concrete class &lt;code&gt;UsersList&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>54</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'user' of concrete class &lt;code&gt;User&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>80</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'user' of concrete class &lt;code&gt;User&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'movie' of concrete class &lt;code&gt;Movie&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'Actor' of concrete class &lt;code&gt;Actor&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>82</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'Actor' of concrete class &lt;code&gt;Actor&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>86</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'ActorListAdapter' of concrete class &lt;code&gt;ActorList&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>106</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'actor' of concrete class &lt;code&gt;Actor&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>82</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'movie' of concrete class &lt;code&gt;Movie&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>86</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'movieListAdapter' of concrete class &lt;code&gt;MovieList&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>106</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable of concrete class</problem_class>
+    <description>Local variable 'movie' of concrete class &lt;code&gt;Movie&lt;/code&gt; #loc</description>
+  </problem>
+</problems>
+

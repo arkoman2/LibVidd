@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LibVidd</string>
+    <array name="genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Comedy</item>
+        <item>Crime</item>
+        <item>Drama</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+</resources>

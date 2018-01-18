@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>176</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on right side of comparison</problem_class>
+    <description>&lt;code&gt;PICK == PICK_IMGE_REQUST&lt;/code&gt;: constant on right side of comparison #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>177</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on right side of comparison</problem_class>
+    <description>&lt;code&gt;filepath != null&lt;/code&gt;: constant on right side of comparison #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>211</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on right side of comparison</problem_class>
+    <description>&lt;code&gt;bit != null&lt;/code&gt;: constant on right side of comparison #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>242</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on right side of comparison</problem_class>
+    <description>&lt;code&gt;requestCode == PICK_IMGE_REQUST&lt;/code&gt;: constant on right side of comparison #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>242</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on right side of comparison</problem_class>
+    <description>&lt;code&gt;resultCode == RESULT_OK&lt;/code&gt;: constant on right side of comparison #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>242</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on right side of comparison</problem_class>
+    <description>&lt;code&gt;data != null&lt;/code&gt;: constant on right side of comparison #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>242</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on right side of comparison</problem_class>
+    <description>&lt;code&gt;data.getData() != null&lt;/code&gt;: constant on right side of comparison #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>243</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on right side of comparison</problem_class>
+    <description>&lt;code&gt;requestCode == PICK_IMGE_REQUST&lt;/code&gt;: constant on right side of comparison #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>64</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant on right side of comparison</problem_class>
+    <description>&lt;code&gt;user.isAdmin() == false&lt;/code&gt;: constant on right side of comparison #loc</description>
+  </problem>
+</problems>
+

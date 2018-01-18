@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">View Holder Candidates</problem_class>
+    <hints />
+    <description>&lt;html&gt;Unconditional layout inflation from view adapter: Should use View Holder pattern (use recycled view passed into this method as the second parameter) for smoother scrolling&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">View Holder Candidates</problem_class>
+    <hints />
+    <description>&lt;html&gt;Unconditional layout inflation from view adapter: Should use View Holder pattern (use recycled view passed into this method as the second parameter) for smoother scrolling&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">View Holder Candidates</problem_class>
+    <hints />
+    <description>&lt;html&gt;Unconditional layout inflation from view adapter: Should use View Holder pattern (use recycled view passed into this method as the second parameter) for smoother scrolling&lt;/html&gt;</description>
+  </problem>
+</problems>
+

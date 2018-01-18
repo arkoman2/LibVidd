@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Message missing on JUnit assertion</problem_class>
+    <description>JUnit &lt;code&gt;assertEquals()&lt;/code&gt; without message #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ExampleUnitTest void addition_isCorrect()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Message missing on JUnit assertion</problem_class>
+    <description>JUnit &lt;code&gt;assertEquals()&lt;/code&gt; without message #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ExampleInstrumentedTest void useAppContext()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Message missing on JUnit assertion</problem_class>
+    <description>JUnit &lt;code&gt;assertEquals()&lt;/code&gt; without message #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.espressoTest void checkPackageName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Message missing on JUnit assertion</problem_class>
+    <description>JUnit &lt;code&gt;assertEquals()&lt;/code&gt; without message #loc</description>
+  </problem>
+</problems>
+

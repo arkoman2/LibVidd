@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static junit.framework.Assert.assertEquals;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static org.hamcrest.CoreMatchers.is;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static org.hamcrest.MatcherAssert.assertThat;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static org.mockito.Mockito.*;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static org.junit.Assert.*;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static org.junit.Assert.*;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static android.support.test.espresso.Espresso.onView;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static android.support.test.espresso.assertion.ViewAssertions.matches;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>17</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static android.support.test.espresso.matcher.ViewMatchers.isDisplayed;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static android.support.test.espresso.matcher.ViewMatchers.withText;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static org.junit.Assert.*;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static org.hamcrest.core.IsNull.notNullValue;&lt;/code&gt;  #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+    <description>Static import &lt;code&gt;import static org.junit.Assert.assertThat;&lt;/code&gt;  #loc</description>
+  </problem>
+</problems>
+

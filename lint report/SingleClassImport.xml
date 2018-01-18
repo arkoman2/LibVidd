@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.app.Activity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.annotation.NonNull;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.annotation.Nullable;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.LayoutInflater;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.ViewGroup;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.ArrayAdapter;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.TextView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v4.app.FragmentActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.maps.CameraUpdateFactory;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.maps.GoogleMap;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.maps.OnMapReadyCallback;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.maps.SupportMapFragment;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.maps.model.LatLng;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.maps.model.MarkerOptions;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AboutActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AboutActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AboutActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AboutActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>107</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.annotation.SuppressLint;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>108</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.app.ProgressDialog;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>109</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>110</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.graphics.Bitmap;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>111</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.net.Uri;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>112</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>113</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.provider.MediaStore;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>114</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.annotation.NonNull;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>115</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>116</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>117</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>118</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.ImageView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>119</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Toast;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>121</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.tasks.OnFailureListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>122</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.tasks.OnSuccessListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>123</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.storage.FirebaseStorage;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>124</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.storage.OnProgressListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>125</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.storage.StorageReference;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>126</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.storage.UploadTask;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>128</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.io.ByteArrayOutputStream;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>129</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.io.IOException;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Context;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.Test;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.runner.RunWith;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.mockito.Mock;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.mockito.runners.MockitoJUnitRunner;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.text.TextUtils;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.EditText;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Spinner;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Toast;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseReference;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.FirebaseDatabase;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.app.AlertDialog;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.text.TextUtils;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.LayoutInflater;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.AdapterView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.EditText;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.ListView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Spinner;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Toast;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DataSnapshot;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>17</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseError;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseReference;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.FirebaseDatabase;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.ValueEventListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.util.Log;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.EditText;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Spinner;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Toast;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DataSnapshot;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseError;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseReference;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.FirebaseDatabase;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>17</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.ValueEventListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.app.ProgressDialog;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.net.Uri;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.annotation.NonNull;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.text.TextUtils;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.EditText;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Spinner;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Toast;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.tasks.OnFailureListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>17</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.android.gms.tasks.OnSuccessListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseReference;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.FirebaseDatabase;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.storage.FileDownloadTask;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.storage.FirebaseStorage;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.storage.StorageReference;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.storage.UploadTask;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>25</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.io.File;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.io.IOException;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.app.Activity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.annotation.NonNull;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.annotation.Nullable;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.LayoutInflater;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.ViewGroup;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.ArrayAdapter;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.TextView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.app.Activity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.annotation.NonNull;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.annotation.Nullable;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.LayoutInflater;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.ViewGroup;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.ArrayAdapter;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.TextView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.text.TextUtils;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.EditText;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.ListView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.SeekBar;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.TextView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Toast;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DataSnapshot;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseError;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>17</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseReference;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.FirebaseDatabase;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.ValueEventListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AlertDialog;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.text.TextUtils;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.LayoutInflater;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.AdapterView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.ArrayAdapter;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.EditText;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.ListView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Spinner;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.TextView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>17</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Toast;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.analytics.FirebaseAnalytics;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DataSnapshot;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseError;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseReference;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.FirebaseDatabase;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.ValueEventListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.Test;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Context;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.InstrumentationRegistry;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.runner.AndroidJUnit4;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.Test;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.runner.RunWith;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.v7.app.AppCompatActivity;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.Bundle;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.text.TextUtils;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.view.View;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Button;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.EditText;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.ListView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.SeekBar;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.TextView;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.widget.Toast;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DataSnapshot;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseError;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>17</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.DatabaseReference;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.FirebaseDatabase;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import com.google.firebase.database.ValueEventListener;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Context;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.InstrumentationRegistry;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>5</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.espresso.Espresso;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.espresso.assertion.ViewAssertions;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.filters.LargeTest;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.rule.ActivityTestRule;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.runner.AndroidJUnit4;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.Rule;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.Test;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.runner.RunWith;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>7</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.Before;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>8</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.Rule;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.Test;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>10</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import org.junit.runner.RunWith;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Context;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.content.Intent;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.os.RemoteException;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.InstrumentationRegistry;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.espresso.remote.InteractionResponse;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>17</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.filters.SdkSuppress;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.rule.ActivityTestRule;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.runner.AndroidJUnit4;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.uiautomator.UiDevice;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.uiautomator.By;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import android.support.test.uiautomator.Until;&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+    <description>Single class import &lt;code&gt;import java.util.Calendar;&lt;/code&gt; #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getView()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>31</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User java.lang.String getPassword()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getPassword()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User java.lang.String getUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getUserName()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User java.lang.String getUserGe()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getUserGe()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User java.lang.String getUserId()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getUserId()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User boolean isAdmin()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;isAdmin()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MapsActivity void onMapReady(com.google.android.gms.maps.GoogleMap googleMap)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onMapReady()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MapsActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AboutActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AboutActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie java.lang.String getMovieId()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getMovieId()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie java.lang.String getMovieName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getMovieName()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie int getMovieRating()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getMovieRating()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>269</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onClick()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>145</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>240</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onActivityResult()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;checkUserName()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkIfUserObjWorks()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;checkIfUserObjWorks()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>78</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void onStart()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onStart()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getView()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getView()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor java.lang.String getActorId()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getActorId()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor java.lang.String getActorName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getActorName()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor int getActorRating()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;getActorRating()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>72</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onStart()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onStart()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ExampleUnitTest void addition_isCorrect()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;addition_isCorrect()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ExampleInstrumentedTest void useAppContext()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;useAppContext()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onCreate()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>72</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onStart()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;onStart()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>31</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.espressoTest void checkPackageName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;checkPackageName()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>41</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.espressoTest void checkTitleOnAct()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;checkTitleOnAct()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>45</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.uiauto void testGoBackButton()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;testGoBackButton()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.uiauto void setUpCOMP()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Design for extension</problem_class>
+    <description>Method &lt;code&gt;setUpCOMP()&lt;/code&gt; may be overridden and its functionality ignored #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "373480475759",
+    "firebase_url": "https://libvidd.firebaseio.com",
+    "project_id": "libvidd",
+    "storage_bucket": "libvidd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373480475759:android:11e4f55ae7a995c4",
+        "android_client_info": {
+          "package_name": "com.bestteam.libvidd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373480475759-sok2ht8te2d7tk432vu8h32gsk7kimsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bestteam.libvidd",
+            "certificate_hash": "8700e7d24b5e6e61ef59127983135387ad301709"
+          }
+        },
+        {
+          "client_id": "373480475759-tqjkn2n3sbfonbrguab7b7fg5s50b41j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQV_aJp9qNWD39p_GXWmA_toASuI7Zx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373480475759-tqjkn2n3sbfonbrguab7b7fg5s50b41j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

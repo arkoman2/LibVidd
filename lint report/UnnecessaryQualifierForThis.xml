@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>90</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unnecessary qualifier for 'this' or 'super'</problem_class>
+    <description>Qualifier &lt;code&gt;SignUpActivity&lt;/code&gt; on 'this' is unnecessary in this context #loc</description>
+  </problem>
+</problems>
+

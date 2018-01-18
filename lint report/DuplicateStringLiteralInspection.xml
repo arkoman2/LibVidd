@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>56</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>57</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>69</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$5 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>70</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$5 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>202</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$4 void onProgress(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.AddPicAfterActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>179</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.AddPicAfterActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.mockitoTest'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.mockitoTest'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>67</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$5 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>68</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$5 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>54</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>55</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>66</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.SignUpActivity', 'com.bestteam.libvidd.UserDashboardActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>67</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>72</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>77</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.SignUpActivity', 'com.bestteam.libvidd.UserDashboardActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>83</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.SignUpActivity', 'com.bestteam.libvidd.UserDashboardActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>198</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.SignUpActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>202</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.SignUpActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>134</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.UserDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>153</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.SignUpActivity', 'com.bestteam.libvidd.UserDashboardActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>154</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.UserDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>159</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.UserDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>164</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.SignUpActivity', 'com.bestteam.libvidd.UserDashboardActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>170</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.UserDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>81</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void onStart()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.SignUpActivity', 'com.bestteam.libvidd.UserDashboardActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.SignUpActivity', 'com.bestteam.libvidd.UserDashboardActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity USER_NAME" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity USER_ID" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>47</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.UserDashboardActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>89</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>95</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>55</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>57</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AddMovieActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>54</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MainActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>55</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MainActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>65</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MainActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>66</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MainActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ExampleInstrumentedTest void useAppContext()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.espressoTest', 'com.bestteam.libvidd.BuildConfig'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>55</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>57</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.MenuActivity', 'com.bestteam.libvidd.AddFavActActivity', 'com.bestteam.libvidd.LoginActivity', 'com.bestteam.libvidd.AdminMenuActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>61</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.UserDashboardActivity', 'com.bestteam.libvidd.AdminDashboardActivity'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.espressoTest void checkPackageName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate String Literal</problem_class>
+    <description>&lt;html&gt;&lt;body&gt;Duplicate string literal found in&lt;br&gt;'com.bestteam.libvidd.ExampleInstrumentedTest', 'com.bestteam.libvidd.BuildConfig'&lt;/body&gt;&lt;/html&gt;</description>
+  </problem>
+</problems>
+

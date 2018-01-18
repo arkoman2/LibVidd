@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity addActorBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity mapBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity addMovieBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity adminBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AdminMenuActivity detalesBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MenuActivity addActorBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MenuActivity addMovieBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MenuActivity detalesBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MenuActivity mapBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.UserDashboardActivity editTextPassword" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.UserDashboardActivity deleteBtn" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>34</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.SignUpActivity choosePic" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.MainActivity signUp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Multiple variables in one declaration</problem_class>
+    <description>Multiple variables in one declaration #loc</description>
+  </problem>
+</problems>
+

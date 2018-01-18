@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MapsActivity void onMapReady(com.google.android.gms.maps.GoogleMap googleMap)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;position()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MapsActivity void onMapReady(com.google.android.gms.maps.GoogleMap googleMap)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;title()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MapsActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;findFragmentById()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>182</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>182</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>185</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;addOnSuccessListener()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>192</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;addOnFailureListener()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>198</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;addOnProgressListener()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>207</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>225</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;addOnSuccessListener()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>196</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$3 void onFailure(java.lang.Exception exception)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>189</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$2 void onSuccess(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>148</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>254</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;get()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>223</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$5 void onFailure(java.lang.Exception e)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>230</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$6 void onSuccess(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;thenReturn()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkIfUserObjWorks()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;thenReturn()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>66</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>66</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>67</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>67</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>72</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>57</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>37</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>46</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>77</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>77</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>83</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>178</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>178</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>179</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>180</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>180</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>187</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getKey()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>191</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;setValue()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>198</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>202</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>128</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>128</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>129</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>130</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>130</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>153</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>153</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>154</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>154</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>159</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>164</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>164</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>170</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>81</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void onStart()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>45</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>45</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>46</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>46</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>56</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;equals()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>56</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;equals()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>64</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;equals()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>64</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;equals()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>47</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>70</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>70</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>71</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>72</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>72</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>79</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getKey()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>83</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;setValue()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>89</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>95</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>99</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>99</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>104</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getKey()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>108</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;setValue()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>110</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>114</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>61</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>61</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>61</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getReference()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>61</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;child()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>99</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>99</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;trim()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>104</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;getKey()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>108</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;setValue()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>110</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>114</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;show()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.espressoTest void checkTitleOnAct()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+    <description>Chained method call &lt;code&gt;check()&lt;/code&gt; #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList UsersList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.User&gt; userList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to Collection or array field from parameter</problem_class>
+    <description>Assignment to Collection field &lt;code&gt;this.userList&lt;/code&gt; from parameter 'userList' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList MovieList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Movie&gt; movieList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to Collection or array field from parameter</problem_class>
+    <description>Assignment to Collection field &lt;code&gt;this.movies&lt;/code&gt; from parameter 'movieList' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList ActorList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Actor&gt; ActorList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to Collection or array field from parameter</problem_class>
+    <description>Assignment to Collection field &lt;code&gt;this.actors&lt;/code&gt; from parameter 'ActorList' #loc</description>
+  </problem>
+</problems>
+

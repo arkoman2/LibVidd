@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>41</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.uiauto void setUpCOMP()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use of System.out or System.err</problem_class>
+    <description>Uses of &lt;code&gt;System.out&lt;/code&gt; should probably be replaced with more robust logging #loc</description>
+  </problem>
+</problems>
+

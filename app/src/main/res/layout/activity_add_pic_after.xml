@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bestteam.libvidd.AddPicAfterActivity"
+    android:background="@drawable/download">
+
+    <Button
+        android:id="@+id/addPicBtn"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView"
+        android:text="Add Picture by gallery" />
+
+    <Button
+        android:id="@+id/addPicByCamBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/addPicBtn"
+        android:text="Add Picture by camera" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Welcome, Please Upload your photo"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+
+    <Button
+        android:id="@+id/backToLoginBtn"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="31dp"
+        android:layout_marginEnd="33dp"
+        android:text="Skip/done" />
+
+    <Button
+        android:id="@+id/btn_upload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/backToLoginBtn"
+        android:layout_alignBottom="@+id/backToLoginBtn"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="35dp"
+        android:text="upload" />
+
+    <ImageView
+        android:id="@+id/imageViewPic"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_below="@+id/addPicByCamBtn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp" />
+</RelativeLayout>

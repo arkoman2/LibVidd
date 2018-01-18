@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList UsersList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.User&gt; userList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;userList&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList UsersList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.User&gt; userList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;listViewItem&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;user&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>37</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;textViewName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;parent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>33</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;inflater&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;textViewGenre&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;position&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;convertView&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User(java.lang.String userId, java.lang.String userName, java.lang.String password, java.lang.String userGe)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;userName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User(java.lang.String userId, java.lang.String userName, java.lang.String password, java.lang.String userGe)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;password&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User(java.lang.String userId, java.lang.String userName, java.lang.String password, java.lang.String userGe)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;userGe&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User(java.lang.String userId, java.lang.String userName, java.lang.String password, java.lang.String userGe)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;userId&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MapsActivity void onMapReady(com.google.android.gms.maps.GoogleMap googleMap)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;googleMap&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MapsActivity void onMapReady(com.google.android.gms.maps.GoogleMap googleMap)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;sydney&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MapsActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;mapFragment&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MapsActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AboutActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AboutActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie Movie(java.lang.String movieId, java.lang.String movieName, int MovieRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;MovieRating&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie Movie(java.lang.String movieId, java.lang.String movieName, int MovieRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;movieId&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie Movie(java.lang.String movieId, java.lang.String movieName, int MovieRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;movieName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>29</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>45</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$3 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>44</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$3 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>54</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>52</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>67</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$5 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>65</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$5 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>78</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$6 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>79</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$6 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>37</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminMenuActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>201</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$4 void onProgress(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;progrss&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>200</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$4 void onProgress(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;taskSnapshot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>214</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;data&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>218</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;imagesRef&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>219</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;uploadTask&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>216</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;storage&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>182</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;riversRef&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>212</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void upLoadFile()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;baos&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>168</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void showFileChoser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>194</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$3 void onFailure(java.lang.Exception exception)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;exception&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>187</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$2 void onSuccess(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;taskSnapshot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>269</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>145</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>160</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;i&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>159</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>247</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;bitmap&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>249</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;e&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>240</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;resultCode&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>240</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;requestCode&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>240</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity void onActivityResult(int requestCode, int resultCode, android.content.Intent data)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;data&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>222</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$5 void onFailure(java.lang.Exception e)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;e&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>227</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$6 void onSuccess(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;taskSnapshot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>228</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$6 void onSuccess(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;downloadUrl&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.mockitoTest void checkUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;test&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>63</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$5 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>65</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$5 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>14</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>34</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>50</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>52</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>42</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$3 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MenuActivity$3 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>66</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;dataUser&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>64</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;userId&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>67</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;dataMovies&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>58</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>55</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>48</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;password&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;name&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>37</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;genre&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>77</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;databaseReference&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>75</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;name&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>75</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;password&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>75</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;genre&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>75</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;id&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>79</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;user&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UserDashboardActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>66</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$2 boolean onItemLongClick(android.widget.AdapterView&lt;?&gt; adapterView, android.view.View view, int i, long l)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;i&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>66</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$2 boolean onItemLongClick(android.widget.AdapterView&lt;?&gt; adapterView, android.view.View view, int i, long l)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>68</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$2 boolean onItemLongClick(android.widget.AdapterView&lt;?&gt; adapterView, android.view.View view, int i, long l)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;user&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>66</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$2 boolean onItemLongClick(android.widget.AdapterView&lt;?&gt; adapterView, android.view.View view, int i, long l)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;adapterView&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>66</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$2 boolean onItemLongClick(android.widget.AdapterView&lt;?&gt; adapterView, android.view.View view, int i, long l)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;l&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>98</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$3 void onCancelled(com.google.firebase.database.DatabaseError databaseError)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;databaseError&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>145</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$5 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>188</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;user&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>178</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;name&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>179</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;genre&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>180</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;password&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>187</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;id&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>128</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;name&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>129</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;genre&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>127</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>130</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$4 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;password&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>153</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;dataUser&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>154</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;dataMovies&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>151</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void deleteUser(java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;userId&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>162</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;id&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>162</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;password&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>162</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;genre&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>164</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;databaseReference&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>166</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;user&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>162</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity boolean updateUser(java.lang.String id, java.lang.String name, java.lang.String password, java.lang.String genre)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;name&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>88</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$3 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;user&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>84</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$3 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;dataSnapshot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>86</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$3 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;userSnapShot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>93</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$3 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;adapter&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>104</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void showUpdateDialog(java.lang.String userName, java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;userName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>108</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void showUpdateDialog(java.lang.String userName, java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;inflater&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>106</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void showUpdateDialog(java.lang.String userName, java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;dialogBuilder&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>56</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>77</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onCancelled(com.google.firebase.database.DatabaseError databaseError)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;databaseError&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>44</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>52</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;userSnapShot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>59</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>54</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;user&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>50</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;dataSnapshot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>67</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.LoginActivity$2$1 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>58</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>90</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>70</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;name&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>72</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;password&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>71</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;genre&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>80</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity void addUser()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;user&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList MovieList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Movie&gt; movieList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList MovieList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Movie&gt; movieList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;movieList&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;convertView&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;listViewItem&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;movie&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;position&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>33</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;inflater&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>37</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;textViewMovieName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;textViewRating&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;parent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;listViewItem&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;textViewRating&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;parent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>37</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;textViewActorName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;position&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>32</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;convertView&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>33</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;inflater&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>40</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;Actor&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList ActorList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Actor&gt; ActorList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;context&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList ActorList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Actor&gt; ActorList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;ActorList&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor(java.lang.String ActorId, java.lang.String ActorName, int ActorRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;ActorName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor(java.lang.String ActorId, java.lang.String ActorName, int ActorRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;ActorRating&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>86</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;ActorListAdapter&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>77</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;dataSnapshot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>82</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;Actor&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>80</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;Actorsnapshot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>99</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;ActorName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>100</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;rating&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>104</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;id&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>106</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void saveActor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;actor&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>65</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>91</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity$2 void onCancelled(com.google.firebase.database.DatabaseError databaseError)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;databaseError&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>55</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;id&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>57</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;name&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>51</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>53</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>52</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>64</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>63</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MainActivity$2 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ExampleInstrumentedTest void useAppContext()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;appContext&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>91</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity$2 void onCancelled(com.google.firebase.database.DatabaseError databaseError)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;databaseError&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>57</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;name&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>51</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;intent&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>55</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;id&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;savedInstanceState&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>86</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;movieListAdapter&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>77</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;dataSnapshot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>82</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;movie&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>80</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;movieSnapshot&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>65</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity$1 void onClick(android.view.View view)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Parameter &lt;code&gt;view&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>99</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;movieName&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>100</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;rating&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>106</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;movie&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>104</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity void saveMovie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;id&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>33</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.espressoTest void checkPackageName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local variable or parameter can be final</problem_class>
+    <description>Variable &lt;code&gt;appContext&lt;/code&gt; can have &lt;code&gt;final&lt;/code&gt; modifier</description>
+  </problem>
+</problems>
+

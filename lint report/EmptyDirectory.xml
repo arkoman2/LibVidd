@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/font</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/src/main/res/font" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;src/main/res/font&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/res/resValues/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/res/resValues/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/res/resValues/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/res/rs/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/res/rs/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/res/rs/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/source/rs/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/source/rs/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/source/rs/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/source/aidl/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/source/aidl/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/source/aidl/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/libs</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/libs" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;libs&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/assets/shaders/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/assets/shaders/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/assets/shaders/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/source/apt/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/source/apt/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/source/apt/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/res/rs/androidTest/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/res/rs/androidTest/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/res/rs/androidTest/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/res/resValues/androidTest/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/res/resValues/androidTest/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/res/resValues/androidTest/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/source/rs/androidTest/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/source/rs/androidTest/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/source/rs/androidTest/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/source/aidl/androidTest/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/source/aidl/androidTest/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/source/aidl/androidTest/debug&lt;/code&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build/generated/res/pngs/androidTest/debug</file>
+    <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/build/generated/res/pngs/androidTest/debug" />
+    <problem_class>Empty directory</problem_class>
+    <hints />
+    <description>Empty directory &lt;code&gt;build/generated/res/pngs/androidTest/debug&lt;/code&gt;</description>
+  </problem>
+</problems>
+

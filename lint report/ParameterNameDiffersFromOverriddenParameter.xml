@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>200</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$4 void onProgress(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter name differs from parameter in overridden method</problem_class>
+    <description>Parameter name &lt;code&gt;taskSnapshot&lt;/code&gt; is different from parameter 'tProgress' overridden #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>194</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$3 void onFailure(java.lang.Exception exception)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter name differs from parameter in overridden method</problem_class>
+    <description>Parameter name &lt;code&gt;exception&lt;/code&gt; is different from parameter 'e' overridden #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>187</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$2 void onSuccess(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter name differs from parameter in overridden method</problem_class>
+    <description>Parameter name &lt;code&gt;taskSnapshot&lt;/code&gt; is different from parameter 'tResult' overridden #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>227</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$6 void onSuccess(com.google.firebase.storage.UploadTask.TaskSnapshot taskSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter name differs from parameter in overridden method</problem_class>
+    <description>Parameter name &lt;code&gt;taskSnapshot&lt;/code&gt; is different from parameter 'tResult' overridden #loc</description>
+  </problem>
+</problems>
+

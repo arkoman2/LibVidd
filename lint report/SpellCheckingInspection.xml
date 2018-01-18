@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Arkadi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Arkadi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>4</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>4</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>4</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebaseio'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>5</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>6</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>6</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'appspot'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>11</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'mobilesdk'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>13</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>13</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>18</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'kimsb'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>18</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'googleusercontent'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>21</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>21</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>26</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'tqjkn'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>26</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'sbfonbrguab'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>26</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'googleusercontent'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>39</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'appinvite'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>43</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'tqjkn'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>43</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'sbfonbrguab'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>43</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'googleusercontent'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>2</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>3</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>4</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>24</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'valide'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>54</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>54</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>54</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebaseio'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>61</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'elif'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>63</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'elif'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>65</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'elif'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/pythonSdk.py</file>
+    <line>69</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pythonSdk.py" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'valide'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>3</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Bgkqhki'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Kgwgg'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Kehkq'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Fbcbdv'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Utiw'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Efgevi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Zyeo'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Cspl'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Wudi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Sgyrj'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'tpaw'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'JQXX'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Vmiih'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Ihnxukk'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'MBAAE'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'ZHSSJ'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Khygq'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'CAXK'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Goux'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'cabz'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'ILGTDG'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'VQBD'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Upcre'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'JVYF'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'ZWCPW'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'MWCK'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'NNST'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'DULD'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Oqqb'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Tvlwo'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Clat'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'QENKTX'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Daik'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Lblc'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'uhso'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'GHDL'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'WNGL'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'HVGO'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Lgwou'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Rrbkk'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Qftgoj'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Tbos'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Nvtn'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'zlpb'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Pbdfx'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Guovq'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'kabk'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Bxfbb'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Lvkjygf'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Ztklx'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'mzsk'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Hayxu'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Roiwz'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'VVIU'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Qqyyy'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Iugw'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>5</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'KFOIZCV'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>11</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>11</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'adminsdk'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>11</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'qznta'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>11</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/serviceAccountKey.json</file>
+    <line>11</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/serviceAccountKey.json" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'gserviceaccount'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml</file>
+    <line>14</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'signup'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'apiid'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Bcom'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml</file>
+    <line>23</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Acrn'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml</file>
+    <line>23</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'ILDH'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml</file>
+    <line>9</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Namee'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml</file>
+    <line>31</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Namee'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml</file>
+    <line>39</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Ganres'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml</file>
+    <line>45</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/update_dialog.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Ganres'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'abstracttriangle'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Arkadi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'detales'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_menu.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_menu.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_menu.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_menu.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_menu.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_menu.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'rainbowbackground'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>17</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Storgae'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Storgae'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>68</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'requst'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>69</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'requst'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>70</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'requst'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>73</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Storgae'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>81</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'requst'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>85</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>92</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>93</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'baos'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>94</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'baos'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>95</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'baos'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>96</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>98</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>99</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'vvvvv'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>133</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'gallary'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>139</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'IMGE'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>139</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'REQUST'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>140</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'REQUST'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>167</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Choser'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>201</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'progrss'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>207</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'FAILD'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>212</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'baos'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>223</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'faild'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>230</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'SUCCSSES'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_pic_after.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_pic_after.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_pic_after.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_pic_after.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Arkadi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>123</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Instanceof'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>237</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Immutables'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>295</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Throwables'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>322</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Doesnt'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>326</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Doesnt'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>333</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Externalizable'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>334</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Fallthru'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>339</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Unsynchronized'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>366</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Doesnt'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>440</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Instanceof'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>441</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Instanceof'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>442</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Instanceof'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>444</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Instanceof'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>445</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Instanceof'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>446</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Instanceof'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>483</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Datapoint'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>569</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Misordered'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>570</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Misordered'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>573</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Missorted'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>663</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Noop'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>699</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Instanceof'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>701</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Overridable'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>740</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Parameterized'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>782</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'defau'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>785</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Parameterized'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>840</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Unconstructable'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>895</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Initializers'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>995</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Righthand'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>996</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Parameterized'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>998</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Weakento'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>1010</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Unconstructable'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>1059</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Unsecure'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>1077</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Hashtable'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Project_Default.xml</file>
+    <line>1102</line>
+    <module>LibVidd</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Project_Default.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Emtpy'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>11</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'detales'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'yellowblueandpinkbackground'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>72</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'succsefully'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>83</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'succsesfully'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_dashboard.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_dashboard.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_dashboard.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_dashboard.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_dashboard.xml</file>
+    <line>48</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_dashboard.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Ganres'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>159</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'succsefully'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>170</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'succsesfully'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_dashboard.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_dashboard.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_dashboard.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_dashboard.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_dashboard.xml</file>
+    <line>10</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_dashboard.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'htmlcolorcodescolor'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Textpassword'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>33</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Textpassword'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'signup'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Arkadi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Arkadi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Arkadi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>80</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Actorsnapshot'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>110</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'succesfully'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>44</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Firebase'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'videolibrary'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/values/strings.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Vidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+    <line>3</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+    <line>3</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_fav_act.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_fav_act.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_fav_act.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_fav_act.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_fav_act.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_fav_act.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'depositphotos'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>110</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'succesfully'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_movie.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_movie.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_movie.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_movie.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_movie.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_movie.xml" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'depositphotos'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Arkadi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'bestteam'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'libvidd'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>4</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'Arkadi'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>31</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java" />
+    <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+    <description>Typo: In word 'uiauto'</description>
+  </problem>
+</problems>
+

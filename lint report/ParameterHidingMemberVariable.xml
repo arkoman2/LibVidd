@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList UsersList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.User&gt; userList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;context&lt;/code&gt; hides field in class 'UsersList' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList UsersList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.User&gt; userList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;userList&lt;/code&gt; hides field in class 'UsersList' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User(java.lang.String userId, java.lang.String userName, java.lang.String password, java.lang.String userGe)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;userId&lt;/code&gt; hides field in class 'User' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User(java.lang.String userId, java.lang.String userName, java.lang.String password, java.lang.String userGe)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;userName&lt;/code&gt; hides field in class 'User' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User(java.lang.String userId, java.lang.String userName, java.lang.String password, java.lang.String userGe)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;password&lt;/code&gt; hides field in class 'User' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User(java.lang.String userId, java.lang.String userName, java.lang.String password, java.lang.String userGe)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;userGe&lt;/code&gt; hides field in class 'User' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie Movie(java.lang.String movieId, java.lang.String movieName, int MovieRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;movieName&lt;/code&gt; hides field in class 'Movie' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie Movie(java.lang.String movieId, java.lang.String movieName, int MovieRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;MovieRating&lt;/code&gt; hides field in class 'Movie' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList MovieList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Movie&gt; movieList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;context&lt;/code&gt; hides field in class 'MovieList' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList ActorList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Actor&gt; ActorList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;context&lt;/code&gt; hides field in class 'ActorList' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor(java.lang.String ActorId, java.lang.String ActorName, int ActorRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;ActorId&lt;/code&gt; hides field in class 'Actor' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor(java.lang.String ActorId, java.lang.String ActorName, int ActorRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;ActorName&lt;/code&gt; hides field in class 'Actor' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor(java.lang.String ActorId, java.lang.String ActorName, int ActorRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameter hides field</problem_class>
+    <description>Parameter &lt;code&gt;ActorRating&lt;/code&gt; hides field in class 'Actor' #loc</description>
+  </problem>
+</problems>
+

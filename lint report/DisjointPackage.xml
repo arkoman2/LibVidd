@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <entry_point TYPE="package" FQNAME="com.bestteam.libvidd" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Package with disjoint dependency graph</problem_class>
+    <hints />
+    <description>Package com.bestteam.libvidd can be decomposed into 3 independent packages</description>
+  </problem>
+</problems>
+

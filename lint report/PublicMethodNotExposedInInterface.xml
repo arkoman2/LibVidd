@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>31</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User java.lang.String getPassword()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getPassword()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User java.lang.String getUserName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getUserName()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User java.lang.String getUserGe()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getUserGe()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User java.lang.String getUserId()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getUserId()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>15</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User boolean isAdmin()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;isAdmin()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie java.lang.String getMovieId()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getMovieId()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie java.lang.String getMovieName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getMovieName()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie int getMovieRating()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getMovieRating()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor java.lang.String getActorId()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getActorId()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor java.lang.String getActorName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getActorName()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor int getActorRating()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;getActorRating()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.uiauto void setUpCOMP()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' method not exposed in interface</problem_class>
+    <description>'public' method &lt;code&gt;setUpCOMP()&lt;/code&gt; is not exposed via an interface #loc</description>
+  </problem>
+</problems>
+

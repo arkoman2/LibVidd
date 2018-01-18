@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>141</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddPicAfterActivity PICK" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Non-constant field with upper-case name</problem_class>
+    <description>Non-constant field &lt;code&gt;PICK&lt;/code&gt; with constant-style name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity USER_NAME" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Non-constant field with upper-case name</problem_class>
+    <description>Non-constant field &lt;code&gt;USER_NAME&lt;/code&gt; with constant-style name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity USER_ID" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Non-constant field with upper-case name</problem_class>
+    <description>Non-constant field &lt;code&gt;USER_ID&lt;/code&gt; with constant-style name #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity ADMIN" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Non-constant field with upper-case name</problem_class>
+    <description>Non-constant field &lt;code&gt;ADMIN&lt;/code&gt; with constant-style name #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie Movie(java.lang.String movieId, java.lang.String movieName, int MovieRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter naming convention</problem_class>
+    <description>Parameter name &lt;code&gt;MovieRating&lt;/code&gt; doesn't match regex '[a-z][A-Za-z\d]*' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList ActorList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Actor&gt; ActorList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter naming convention</problem_class>
+    <description>Parameter name &lt;code&gt;ActorList&lt;/code&gt; doesn't match regex '[a-z][A-Za-z\d]*' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor(java.lang.String ActorId, java.lang.String ActorName, int ActorRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter naming convention</problem_class>
+    <description>Parameter name &lt;code&gt;ActorId&lt;/code&gt; doesn't match regex '[a-z][A-Za-z\d]*' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor(java.lang.String ActorId, java.lang.String ActorName, int ActorRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter naming convention</problem_class>
+    <description>Parameter name &lt;code&gt;ActorName&lt;/code&gt; doesn't match regex '[a-z][A-Za-z\d]*' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor(java.lang.String ActorId, java.lang.String ActorName, int ActorRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter naming convention</problem_class>
+    <description>Parameter name &lt;code&gt;ActorRating&lt;/code&gt; doesn't match regex '[a-z][A-Za-z\d]*' #loc</description>
+  </problem>
+</problems>
+

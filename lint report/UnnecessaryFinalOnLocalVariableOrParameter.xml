@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>110</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void showUpdateDialog(java.lang.String userName, java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'final' on local variable or parameter</problem_class>
+    <description>Unnecessary &lt;code&gt;final&lt;/code&gt; on variable 'dialogView' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>117</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void showUpdateDialog(java.lang.String userName, java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'final' on local variable or parameter</problem_class>
+    <description>Unnecessary &lt;code&gt;final&lt;/code&gt; on variable 'buttonUpdate' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>118</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity void showUpdateDialog(java.lang.String userName, java.lang.String userId)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'final' on local variable or parameter</problem_class>
+    <description>Unnecessary &lt;code&gt;final&lt;/code&gt; on variable 'buttonDelete' #loc</description>
+  </problem>
+</problems>
+

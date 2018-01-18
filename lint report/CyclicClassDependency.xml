@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminMenuActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic class dependency</problem_class>
+    <description>Class 'AdminMenuActivity' is cyclically dependent on 4 other classes</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>131</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddPicAfterActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic class dependency</problem_class>
+    <description>Class 'AddPicAfterActivity' is cyclically dependent on class 'com.bestteam.libvidd.SignUpActivity'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MenuActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic class dependency</problem_class>
+    <description>Class 'MenuActivity' is cyclically dependent on 4 other classes</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.UserDashboardActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic class dependency</problem_class>
+    <description>Class 'UserDashboardActivity' is cyclically dependent on 4 other classes</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.LoginActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic class dependency</problem_class>
+    <description>Class 'LoginActivity' is cyclically dependent on 4 other classes</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.SignUpActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic class dependency</problem_class>
+    <description>Class 'SignUpActivity' is cyclically dependent on class 'com.bestteam.libvidd.AddPicAfterActivity'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>29</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MainActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Cyclic class dependency</problem_class>
+    <description>Class 'MainActivity' is cyclically dependent on 4 other classes</description>
+  </problem>
+</problems>
+

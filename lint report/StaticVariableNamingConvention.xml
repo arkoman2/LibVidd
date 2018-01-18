@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>141</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.AddPicAfterActivity PICK" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'static' field naming convention</problem_class>
+    <description>'static' field name &lt;code&gt;PICK&lt;/code&gt; is too short (4 &lt; 5) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity USER_NAME" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'static' field naming convention</problem_class>
+    <description>'static' field name &lt;code&gt;USER_NAME&lt;/code&gt; doesn't match regex 's_[a-z][A-Za-z\d]*' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity USER_ID" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'static' field naming convention</problem_class>
+    <description>'static' field name &lt;code&gt;USER_ID&lt;/code&gt; doesn't match regex 's_[a-z][A-Za-z\d]*' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.LoginActivity ADMIN" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'static' field naming convention</problem_class>
+    <description>'static' field name &lt;code&gt;ADMIN&lt;/code&gt; doesn't match regex 's_[a-z][A-Za-z\d]*' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.SignUpActivity id" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'static' field naming convention</problem_class>
+    <description>'static' field name &lt;code&gt;id&lt;/code&gt; is too short (2 &lt; 5) #loc</description>
+  </problem>
+</problems>
+

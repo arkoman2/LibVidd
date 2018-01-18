@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>198</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddPicAfterActivity$4" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous class may be a named 'static' inner class</problem_class>
+    <description>Anonymous class &lt;code&gt;OnProgressListener&lt;UploadTask.TaskSnapshot&gt;&lt;/code&gt; may be a named 'static' inner class #loc</description>
+  </problem>
+</problems>
+

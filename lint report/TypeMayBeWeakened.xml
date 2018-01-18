@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>43</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User java.lang.String getUserGe()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Type may be weakened</problem_class>
+    <description>Return type of method &lt;code&gt;getUserGe()&lt;/code&gt; may be weakened to 'java.lang.CharSequence' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie java.lang.String getMovieName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Type may be weakened</problem_class>
+    <description>Return type of method &lt;code&gt;getMovieName()&lt;/code&gt; may be weakened to 'java.lang.CharSequence' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>93</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AdminDashboardActivity$3 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Type may be weakened</problem_class>
+    <description>Type of variable &lt;code&gt;adapter&lt;/code&gt; may be weakened to 'android.widget.ListAdapter' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor java.lang.String getActorName()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Type may be weakened</problem_class>
+    <description>Return type of method &lt;code&gt;getActorName()&lt;/code&gt; may be weakened to 'java.lang.CharSequence' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>86</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddFavActActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Type may be weakened</problem_class>
+    <description>Type of variable &lt;code&gt;ActorListAdapter&lt;/code&gt; may be weakened to 'android.widget.ListAdapter' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>86</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.AddMovieActivity$2 void onDataChange(com.google.firebase.database.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Type may be weakened</problem_class>
+    <description>Type of variable &lt;code&gt;movieListAdapter&lt;/code&gt; may be weakened to 'android.widget.ListAdapter' #loc</description>
+  </problem>
+</problems>
+

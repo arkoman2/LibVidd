@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UsersList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.UsersList UsersList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.User&gt; userList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;UsersList()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User(java.lang.String userId, java.lang.String userName, java.lang.String password, java.lang.String userGe)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;User()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/User.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.User User()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;User()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MapsActivity.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MapsActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;MapsActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AboutActivity.java</file>
+    <line>6</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AboutActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;AboutActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie Movie()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;Movie()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Movie.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Movie Movie(java.lang.String movieId, java.lang.String movieName, int MovieRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;Movie()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminMenuActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminMenuActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;AdminMenuActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddPicAfterActivity.java</file>
+    <line>131</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddPicAfterActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;AddPicAfterActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/mockitoTest.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.mockitoTest" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;mockitoTest&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MenuActivity.java</file>
+    <line>9</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MenuActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;MenuActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/UserDashboardActivity.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.UserDashboardActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;UserDashboardActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AdminDashboardActivity.java</file>
+    <line>25</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AdminDashboardActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;AdminDashboardActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/LoginActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.LoginActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;LoginActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/SignUpActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.SignUpActivity SignUpActivity()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;SignUpActivity()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MovieList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.MovieList MovieList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Movie&gt; movieList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;MovieList()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/ActorList.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.ActorList ActorList(android.app.Activity context, java.util.List&lt;com.bestteam.libvidd.Actor&gt; ActorList)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;ActorList()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor(java.lang.String ActorId, java.lang.String ActorName, int ActorRating)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;Actor()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/Actor.java</file>
+    <line>13</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.Actor Actor()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Public constructor &lt;code&gt;Actor()&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddFavActActivity.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddFavActActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;AddFavActActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/MainActivity.java</file>
+    <line>29</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.MainActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;MainActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/test/java/com/bestteam/libvidd/ExampleUnitTest.java</file>
+    <line>12</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.ExampleUnitTest" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;ExampleUnitTest&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/ExampleInstrumentedTest.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.ExampleInstrumentedTest" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;ExampleInstrumentedTest&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/bestteam/libvidd/AddMovieActivity.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.AddMovieActivity" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;AddMovieActivity&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.espressoTest" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;espressoTest&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>31</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="class" FQNAME="com.bestteam.libvidd.uiauto" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'public' constructor</problem_class>
+    <description>Class &lt;code&gt;uiauto&lt;/code&gt; has 'public' default constructor</description>
+  </problem>
+</problems>
+

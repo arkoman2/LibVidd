@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <entry_point TYPE="package" FQNAME="com.bestteam" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Package naming convention</problem_class>
+    <hints />
+    <description>Package name &lt;code&gt;com.bestteam&lt;/code&gt; doesn't match regex '[a-z]*'</description>
+  </problem>
+  <problem>
+    <entry_point TYPE="package" FQNAME="com.bestteam.libvidd" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Package naming convention</problem_class>
+    <hints />
+    <description>Package name &lt;code&gt;com.bestteam.libvidd&lt;/code&gt; is too long</description>
+  </problem>
+</problems>
+

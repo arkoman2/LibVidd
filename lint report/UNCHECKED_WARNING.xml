@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.espressoTest addPickAct" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+    <description>Unchecked call to 'ActivityTestRule(Class&lt;T&gt;)' as a member of raw type 'android.support.test.rule.ActivityTestRule'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.espressoTest addPickAct" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+    <description>Unchecked assignment: 'android.support.test.rule.ActivityTestRule' to 'android.support.test.rule.ActivityTestRule&lt;com.bestteam.libvidd.AddPicAfterActivity&gt;'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.uiauto mainAct" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+    <description>Unchecked call to 'ActivityTestRule(Class&lt;T&gt;)' as a member of raw type 'android.support.test.rule.ActivityTestRule'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="field" FQNAME="com.bestteam.libvidd.uiauto mainAct" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+    <description>Unchecked assignment: 'android.support.test.rule.ActivityTestRule' to 'android.support.test.rule.ActivityTestRule&lt;com.bestteam.libvidd.MainActivity&gt;'</description>
+  </problem>
+</problems>
+

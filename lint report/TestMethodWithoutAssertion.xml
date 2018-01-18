@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/espressoTest.java</file>
+    <line>41</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.espressoTest void checkTitleOnAct()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit test method without any assertions</problem_class>
+    <description>JUnit test method &lt;code&gt;checkTitleOnAct()&lt;/code&gt; contains no assertions #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/bestteam/libvidd/uiauto.java</file>
+    <line>45</line>
+    <module>app</module>
+    <package>com.bestteam.libvidd</package>
+    <entry_point TYPE="method" FQNAME="com.bestteam.libvidd.uiauto void testGoBackButton()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">JUnit test method without any assertions</problem_class>
+    <description>JUnit test method &lt;code&gt;testGoBackButton()&lt;/code&gt; contains no assertions #loc</description>
+  </problem>
+</problems>
+

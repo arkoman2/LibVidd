@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bestteam.libvidd.AddFavActActivity"
+    android:background="@drawable/depositphotos">
+
+    <TextView
+        android:layout_below="@+id/AddActorBtn"
+        android:id="@+id/textViewActors"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textAlignment="center"
+        android:text="Actors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textViewUserName2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="user name"
+        android:textAlignment="center"/>
+
+    <EditText
+        android:id="@+id/editTextActorName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textViewUserName2"
+        android:hint="Enter Actor Name" />
+
+    <SeekBar
+        android:layout_below="@+id/editTextActorName"
+        android:max="5"
+        android:id="@+id/seekBarRating2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/AddActorBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/seekBarRating2"
+        android:text="Add" />
+
+    <ListView
+        android:id="@+id/listViewActors"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textViewActors" />
+
+</RelativeLayout>

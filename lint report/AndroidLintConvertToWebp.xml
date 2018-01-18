@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/depositphotos.jpg</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/depositphotos.jpg" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Convert to WebP</problem_class>
+    <hints />
+    <description>&lt;html&gt;One or more images in this project can be converted to the WebP format which typically results in smaller file sizes, even for lossless conversion (but launcher icons should use PNG).&lt;/html&gt;</description>
+  </problem>
+</problems>
+
